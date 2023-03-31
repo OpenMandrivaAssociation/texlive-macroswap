@@ -1,6 +1,6 @@
 Name:		texlive-macroswap
 Version:	31498
-Release:	1
+Release:	2
 Summary:	Swap the definitions of two LaTeX macros
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/macroswap
