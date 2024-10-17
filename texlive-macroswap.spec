@@ -3,7 +3,7 @@ Version:	31498
 Release:	2
 Summary:	Swap the definitions of two LaTeX macros
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/macroswap
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/macroswap
 License:	LPPL1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/macroswap.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/macroswap.doc.r%{version}.tar.xz
